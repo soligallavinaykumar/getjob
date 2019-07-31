@@ -25,8 +25,8 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](
-wm.joinindianarmy@gov.in) and ![Image](src)
+[
+wm.joinindianarmy@gov.in]() and ![Image](src)
 ![GitHub Logo](/images/logo.png)
 ```
 
